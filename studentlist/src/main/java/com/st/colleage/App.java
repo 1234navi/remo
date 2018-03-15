@@ -1,4 +1,4 @@
-package com.st.colleage;
+package com.st.colleage
 public class App 
 {
     public static void main( String[] args )
